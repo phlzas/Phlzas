@@ -17,7 +17,7 @@ I'm a high school student from Egypt with a passion for building real-world solu
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,figma,firebase,git,canva,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,figma,firebase,git,html,css" />
 </div>
 
 ---
@@ -25,13 +25,13 @@ I'm a high school student from Egypt with a passion for building real-world solu
 ### 🌐 Socials
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/omar-ahmed-0875aa2b4/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/phlzas">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:omarrshdan48228172@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -40,21 +40,27 @@ I'm a high school student from Egypt with a passion for building real-world solu
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phlzas&show_icons=true&theme=radical" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=phlzas&theme=radical" height="150" />
-</div>
-
----
-
-### 🧩 Fun Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phlzas/phlzas/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phlzas/phlzas/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/phlzas/phlzas/output/pacman-contribution-graph.svg">
 </picture>
 
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 ### 💬 Let’s Connect
