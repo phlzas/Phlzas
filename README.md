@@ -3,21 +3,10 @@
 
 ---
 
-### 🚀 About Me
-I'm a high school student from Egypt with a passion for building real-world solutions through code. Whether it's developing apps with **Flutter**, automating tasks with **Python**, or exploring AI tools — I love using technology to make ideas real.
-
-💡 Currently interning at **CodeAlpha** and exploring opportunities in freelance, tech competitions, and global youth programs like TKS and LOT.
-
-- 🧠 Always learning something new — from Firebase to Git to UX.
-- 🛠️ Projects: [CollegeAlertApp](https://github.com/phlzas/CollegeAlertApp), UI prototypes, and community tools.
-- 💬 Ask me about: Flutter, Firebase, UI/UX, productivity hacks, getting started as a teen in tech.
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,figma,firebase,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,figma,firebase,nextjs,nodejs,tauri,cs,cpp,dotnet,docker" />
 </div>
 
 ---
