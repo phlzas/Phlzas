@@ -25,7 +25,7 @@ I'm a high school student from Egypt with a passion for building real-world solu
 ### 🌐 Socials
 
 <div align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/omar-ahmed-0875aa2b4/)">
+  <a href="https://www.linkedin.com/in/omar-ahmed-0875aa2b4">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/phlzas">
