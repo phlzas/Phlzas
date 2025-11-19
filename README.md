@@ -34,6 +34,24 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phlzas/phlzas/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Phlzas&rank_icon=percentile" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Phlzas&rank_icon=percentile&theme=radical&border_radius=12" />
+</a>
+
+  
+
+
+
+</div>
+
+---
+
 
 ###
 
@@ -51,6 +69,16 @@
 
 ###
 ---
+### some of my best work 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phlzas&repo=CodeAlpha_CollegeAlertApp" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phlzas&repo=Smart-Cooling-Monitor" />
+</a>
+
+---
+
 
 ### 💬 Let’s Connect
 Got an idea? A challenge? A gig? I’d love to collaborate or just chat about tech, youth programs, or anything innovative.
